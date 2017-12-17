@@ -1,10 +1,9 @@
 ---
 title: "HelloWorld"
-output:
-  html_document: default
-  word_document: default
+author: "hangrevo"
+date: "12/17/2017"
+output: html_document
 ---
-## This is a markdown file
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
